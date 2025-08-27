@@ -16,5 +16,6 @@ export interface LinkIconProps{
     color: string;
     text? :string
     type?: TypesLinkIcon;
+    Onclick?: () => void; 
 };
 export type TypesLinkIcon = 'button' | 'anchor';

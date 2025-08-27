@@ -41,7 +41,7 @@ export const Card = (props: CardProps) => {
 				<LinkIcon
 					icon="mdi:linkedin"
 					color={currentColor}
-					route="https://www.linkedin.com/in/jaider%20toro2003/"
+					route="https://www.linkedin.com/in/jaidertoro2003/"
 				/>
 				<LinkIcon
 					icon="mdi:github"
